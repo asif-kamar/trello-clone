@@ -1,0 +1,10 @@
+# Ignore Node.js dependency folders
+backend/node_modules/
+frontend/node_modules/
+
+# Ignore .env files (VERY IMPORTANT)
+backend/.env
+frontend/.env
+
+# Ignore React build folder
+frontend/build/
